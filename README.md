@@ -14,3 +14,5 @@
 ![GitLab](https://img.shields.io/badge/GitLab-000000?style=for-the-badge&logo=GitLab)
 ![KIBANA](https://img.shields.io/badge/KIBANA-000000?style=for-the-badge&logo=KIBANA)
 ![GrayLog](https://img.shields.io/badge/GrayLog-000000?style=for-the-badge&logo=GrayLog)
+![Creatio](https://img.shields.io/badge/Creatio-000000?style=for-the-badge&logo=Creatio)
+![1С](https://img.shields.io/badge/1С-000000?style=for-the-badge&logo=1С)
