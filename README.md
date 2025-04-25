@@ -12,3 +12,5 @@
 ![AzureDevops](https://img.shields.io/badge/AzureDevops-000000?style=for-the-badge&logo=AzureDevops)
 ![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=MySQL)
 ![GitLab](https://img.shields.io/badge/GitLab-000000?style=for-the-badge&logo=GitLab)
+![KIBANA](https://img.shields.io/badge/KIBANA-000000?style=for-the-badge&logo=KIBANA)
+![GrayLog](https://img.shields.io/badge/GrayLog-000000?style=for-the-badge&logo=GrayLog)
