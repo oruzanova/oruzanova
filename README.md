@@ -5,3 +5,4 @@
 * Как связаться со мной: [Linkedin](https://www.linkedin.com/in/olga-ruzanova/)
 
 ## Tools
+![JIRA](https://img.shields.io/badge/JIRA-323236?style=for-the-badge&logo=jira)
