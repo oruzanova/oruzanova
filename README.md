@@ -22,6 +22,6 @@
  * [API_testing](https://github.com/oruzanova/API_testing)
  * [MongoDB](https://github.com/oruzanova/MongoDB)
  * [Mobile_testing](https://github.com/oruzanova/Mobile_testing)
- * [Charles](https://github.com/oruzanova/charles_proxy)
+ * [Charles Proxy](https://github.com/oruzanova/charles_proxy)
  * [bash](https://github.com/oruzanova/bash)
  * [Test-documentation](https://github.com/oruzanova/Test-documentation)
