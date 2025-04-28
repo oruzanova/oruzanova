@@ -25,3 +25,7 @@
  * [Charles Proxy](https://github.com/oruzanova/charles_proxy)
  * [bash](https://github.com/oruzanova/bash)
  * [Test-documentation](https://github.com/oruzanova/Test-documentation)
+
+## Сертификаты📜:
+* [Функциональное тестирование ПО - Артем Русов]()
+
