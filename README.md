@@ -27,5 +27,5 @@
  * [Test-documentation](https://github.com/oruzanova/Test-documentation)
 
 ## Сертификаты📜:
-* [Функциональное тестирование ПО - Артем Русов]()
+* [Функциональное тестирование ПО - Артем Русов](https://github.com/oruzanova/oruzanova/blob/main/Intern_9266152.pdf)
 
